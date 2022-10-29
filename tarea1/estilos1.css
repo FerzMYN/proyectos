@@ -1,0 +1,36 @@
+header {
+    color: black;
+    font-size: x-large;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #D2D6D9;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 300%;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: x-large;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: larger;
+    text-align: left;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: medium;
+}
+
+ol {
+    font-family: 'Raleway', sans-serif;
+    font-size: medium;
+    text-align: left;
+}
