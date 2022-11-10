@@ -1,0 +1,67 @@
+Processor 	
+
+Intel® Celeron® N5100 Processor (1.10 GHz, up to 2.80 GHz Burst, 4 Cores, 4 Threads, 4 MB Cache)
+Operating System 	
+
+Windows 11 Home in S Mode
+Graphics 	
+
+Integrated Intel® UHD graphics
+Display 	
+
+14" FHD (1920 x 1080) anti-glare, 220 nits 45% NTSC
+Memory 	
+
+4 GB DDR4 2933MHz
+Battery 	
+
+    Up to 8 hours* (MM18)
+
+
+*All battery life claims are approximate and based on results using the MobileMark 2018 battery life benchmark tests. Actual battery life will vary and depends on many factors such as product configuration and usage, software use, wireless functionality, power management settings, and screen brightness. The maximum capacity of the battery will decrease with time and use.
+Storage 	
+
+128 GB eMMC
+Security 	
+
+Webcam privacy shutter
+Audio 	
+
+    2 x 1.5W speakers with Dolby Audio™
+
+    Dual microphone array
+
+Camera 	
+
+720p HD
+Dimensions (H x W x D) 	
+
+17.9mm x 325.3mm x 216.5mm / 0.7" x 12.8" x 8.5"
+Weight 	
+
+Starting at 1.4kg / 3.1lbs
+Color 	
+
+Abyss Blue
+Connectivity 	
+
+    802.11AX (2 x 2)
+
+    Bluetooth® 5.1
+
+Ports / Slots 	
+
+    USB-C 3.2 Gen 1
+
+    USB-A 3.2 Gen 1
+
+    USB-A 2.0
+
+    HDMI
+
+    SD card reader
+
+    Headphone / mic combo
+
+
+USB port transfer speeds are approximate and depend on many factors, such as processing capability of host/peripheral devices, file attributes, system configuration and operating environments; actual speeds will vary and may be less than expected.

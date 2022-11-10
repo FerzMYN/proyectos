@@ -1,0 +1,6 @@
+    SO: Windows 7 SP1+ (or later)
+    Procesador: Intel or AMD Dual Core at 2 GHz or better
+    Memoria: 2 GB de RAM
+    Gráficos: Intel Graphics 4400 or better
+    DirectX: Versión 11
+    Almacenamiento: 400 MB de espacio disponible

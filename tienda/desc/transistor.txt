@@ -1,0 +1,5 @@
+    SO: Windows 7 32-bit
+    Procesador: Dual Core CPU - 2.6ghz
+    Memoria: 4 GB de RAM
+    Gráficos: 1GB VRAM: Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT
+    Almacenamiento: 3 GB de espacio disponible

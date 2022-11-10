@@ -1,0 +1,32 @@
+Manufacturer Part # 	Stealth15M12040
+OS 	Windows 11 Pro
+CPU 	Core i7-1260P
+CPU Speed 	1.5-4.7GHz
+Chipset 	-
+Color 	Carbon Gray
+Screen Size 	15.6" FHD, IPS-Level 144Hz 45%NTSC
+Resolution 	1920x1080
+(16:9)
+GPU 	NVIDIA® GeForce RTX™ 3060 Laptop GPU
+Video Memory 	6G GDDR6
+Keyboard 	Spectrum Backlight Gaming Keyboard with Anti-Ghost key (99 Key)
+Audio 	Nahimic 3 / Hi-Res Audio
+Speaker 	Speakers 2W*2
+Memory 	16GB (8G*2)
+DDR4 3200MHz
+HDD Capacity 	512GB NVMe SSD Gen 4x4
+HDD Interface 	NVMe
+LAN 	_
+WLAN 	Intel Wi-Fi 6 AX201(2*2 ax)
+Bluetooth 	BT 5.2
+Card Reader 	-
+Webcam 	720p HD Webcam
+USB 	1x USB 3.2 Gen2; 2x USB 3.2 Gen1
+Type-C Port 	1x USB 3.2 Gen2/DP
+Video Port 	1x (8K @ 60Hz / 4K @ 120Hz) HDMI
+Audio Port 	1 Audio Combo (1/8")
+AC Power Adaptor 	180W
+Battery Pack 	3 cell (52Whr)
+Dimension 	14.10"x9.76"x0.63"
+Weight 	3.73 lbs
+Manufacturer Warranty 	1 year Limited warranty (Include 1 Year Global) 
