@@ -33,4 +33,3 @@ Wi-Fi
 Bluetooth
 
     Bluetooth 5.0 wireless technology
-

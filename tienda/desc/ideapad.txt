@@ -17,10 +17,6 @@ Battery
 
     Up to 8 hours* (MM18)
 
-
-*All battery life claims are approximate and based on results using the MobileMark 2018 battery life benchmark tests. Actual battery life will vary and depends on many factors such as product configuration and usage, software use, wireless functionality, power management settings, and screen brightness. The maximum capacity of the battery will decrease with time and use.
-Storage 	
-
 128 GB eMMC
 Security 	
 
@@ -62,6 +58,3 @@ Ports / Slots
     SD card reader
 
     Headphone / mic combo
-
-
-USB port transfer speeds are approximate and depend on many factors, such as processing capability of host/peripheral devices, file attributes, system configuration and operating environments; actual speeds will vary and may be less than expected.
