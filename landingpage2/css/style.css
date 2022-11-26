@@ -1,0 +1,31 @@
+* {
+    background-color: aquamarine;
+    font-family: Tahoma;
+}
+ .img-config {
+    float: right;
+    padding-right: 15%;
+ }
+ 
+ .ipt {
+    background-color: white;
+ }
+
+ select {
+    background-color: white;
+ }
+
+ .submit {
+    background-color: aqua;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: xx-large;
+    width: 30%;
+ }
+
+ .campos {
+    border-color: black;
+    width: 30%;
+    text-align: left;
+    font-size: x-large;
+ }
