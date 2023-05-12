@@ -1,3 +1,0 @@
-SO: Windows 7 SP1 64-Bit
-DirectX: Versión 10
-Almacenamiento: 830 MB de espacio disponible

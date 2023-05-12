@@ -1,6 +1,0 @@
-    SO: Windows Vista or greater
-    Procesador: 2 Ghz
-    Memoria: 2 GB de RAM
-    Gráficos: 256 mb video memory, shader model 3.0+
-    DirectX: Versión 10
-    Almacenamiento: 500 MB de espacio disponible
